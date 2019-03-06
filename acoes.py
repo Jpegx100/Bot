@@ -9,7 +9,13 @@ class VerMenu(action.Action):
     }
 
     def perform_action(self):
-        print("-----------MENU-----------")
+        print("""
+        -----------MENU-----------
+        X-Burguer         R$ 12,50
+        Egg Burguer       R$ 12,50
+        X-Ignorância      R$ 12,50
+        X-Tudo            R$ 12,50
+        """)
 
 
 class ComprarHamburguer(action.Action):
