@@ -1,0 +1,48 @@
+Gostaria pedir uma pizza entrega
+VERB !VERB DET !NOUN NOUN
+
+Quero uma pizza
+!VERB DET !NOUN
+
+Pois vou querer uma pizza
+ADV VERB !VERB DET !NOUN
+
+Vou querer esse super-x-tudao
+VERB !VERB PRON !NOUN
+
+Pois vou querer um x-tudao
+ADV VERB !VERB DET !NOUN
+
+Pois vou querer um x-tudao
+ADV VERB !VERB DET !NOUN
+
+Vou querer um x-bacon
+VERB !VERB DET !NOUN
+
+Pois vou querer um saborear3
+ADV VERB !VERB DET !NOUN
+
+Vou querer um X-tudo-filé, sem calabresa
+VERB !VERB DET !NOUN . ADP NOUN
+
+Vou querer um Big-Love
+VERB !VERB DET !NOUN
+
+Gostaria de um eggx-burguer
+!VERB ADP DET !NOUN
+
+
+Podem me enviar o cardápio
+VERB PRON !VERB DET !NOUN
+
+Tem como me mandar o cardápio?
+VERB ADV PRON !VERB DET !NOUN .
+
+Poderiam enviar o cardápio?
+VERB !VERB DET !NOUN .
+
+Tem como mandar o cardápio?
+VERB ADV !VERB DET !NOUN .
+
+Pode me enviar o cardápio, por favor
+VERB PRON !VERB DET !NOUN . ADP NOUN
